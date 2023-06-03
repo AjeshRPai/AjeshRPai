@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My Name is Ajesh R Pai ,I am an Android Engineer. 
+My Name is Ajesh R Pai. I Live in Bangalore, India 
 
-I work at [Automattic](https://github.com/Automattic). I work mostly on [WordPress for Android](https://github.com/wordpress-mobile/WordPress-Android)
+I am working as an Android Engineer at [Automattic](https://github.com/Automattic). I contribute to the [WordPress for Android](https://github.com/wordpress-mobile/WordPress-Android)
 
 ## Skills
 
