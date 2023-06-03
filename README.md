@@ -9,6 +9,7 @@ I work at [Automattic](https://github.com/Automattic). I work mostly on [WordPre
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### Software
 
