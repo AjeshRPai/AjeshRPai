@@ -8,6 +8,11 @@ I am currently open to work.
 
 At present i am learning [Compose multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/), [Jetpack compose](https://developer.android.com/develop/ui/compose) and learning how to integrate machine learning in Mobile. 
 
+
+## Blogs 
+- [Generics in Kotlin - Type Variance](https://medium.com/@AjeshRPai/generics-in-kotlin-type-variance-6044563b491b)
+- [Espresso Basics](https://medium.com/mindorks/android-testing-part-1-espresso-basics-7219b86c862b)
+
 ## Skills
 
 ### Mobile 
