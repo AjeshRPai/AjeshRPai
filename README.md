@@ -8,7 +8,6 @@ I am currently open to work.
 
 At present i am learning [Compose multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/), [Jetpack compose](https://developer.android.com/develop/ui/compose) and learning how to integrate machine learning in Mobile. 
 
-
 ## Blogs 
 - [Inline functions](https://medium.com/@AjeshRPai/kotlin-inline-functions-03c837718827)
 - [Generics in Kotlin - Type Projection](https://medium.com/@AjeshRPai/understanding-kotlin-type-projection-in-depth-guide-to-use-site-variance-421ccdac421d)
