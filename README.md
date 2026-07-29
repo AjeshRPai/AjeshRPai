@@ -4,8 +4,6 @@ I am Ajesh R Pai. A developer with 8+ YOE in Android development and 1 YOE in Ba
 
 I am working as a Developer Advocate @Google for Android app performance. Previously I worked as an Android Engineer at [Automattic](https://github.com/Automattic), parent company to [Wordpress](https://wordpress.com/) , where I contributed to the [WordPress for Android](https://github.com/wordpress-mobile/WordPress-Android) - You can see my Contributios [here](https://github.com/wordpress-mobile/WordPress-Android/pulls?q=is:pr+author:AjeshRPai+is:closed+sort:comments-desc) 
 
-I am currently open to work. 
-
 At present i am learning [Compose multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/), [Jetpack compose](https://developer.android.com/develop/ui/compose) and learning how to integrate machine learning in Mobile. 
 
 ## Blogs 
